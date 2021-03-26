@@ -1,0 +1,23 @@
+{
+    "name": "rabbit-junk-color-theme",
+    "displayName": "Rabbit Junk Color Theme",
+    "publisher": "evolution515-net",
+    "repository": "https://github.com/blurayne/vscode-rabbitjunk-theme",
+    "description": "For my Rabbit Junkies",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rabbit Junk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rabbit Junk-color-theme.json"
+            }
+        ]
+    }
+}
