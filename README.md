@@ -10,7 +10,7 @@ Theme Extension Page https://themes.vscode.one/theme/ctang/JWFPQegb
 
 Theme ID  `evolution515-net.rabbit-junk-color-theme`
 
-Thanks for the great music! | Thanks for the theme editor @ vscode.one!
+Thanks for the great music! | Thanks to Mike Tromba for the [theme editor](http://themes.vscode.one/) @ [vscode.one](http://www.vscode.one/)!
 
 **Enjoy!**
 
