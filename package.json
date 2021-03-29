@@ -5,6 +5,7 @@
     "repository": "https://github.com/blurayne/vscode-rabbitjunk-theme",
     "description": "For my fellow Rabbit Junkies",
     "version": "0.0.4",
+    "icon": "https://github.com/blurayne/vscode-rabbitjunk-theme/raw/main/icon.png",
     "engines": {
         "vscode": "^1.54.0"
     },
