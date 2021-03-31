@@ -2,7 +2,7 @@
 
 ## About
 
-Inspired by [Rabbit Junk](https://rabbitjunk.com/) | Fork [here](https://themes.vscode.one/theme/ctang/JWFPQegb) @ [themes.vvscode.one](https://themes.vscode.one/) 
+Inofficial Fan Theme inspired by [Rabbit Junk](https://rabbitjunk.com/) | Fork [here](https://themes.vscode.one/theme/ctang/JWFPQegb) @ [themes.vvscode.one](https://themes.vscode.one/) 
 
 ![](theme.png)
 
