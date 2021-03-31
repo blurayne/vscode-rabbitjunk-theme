@@ -4,7 +4,7 @@
     "publisher": "evolution515-net",
     "repository": "https://github.com/blurayne/vscode-rabbitjunk-theme",
     "description": "For my fellow Rabbit Junkies",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.54.0"
